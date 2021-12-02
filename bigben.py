@@ -35,6 +35,6 @@ while True:
             nn = 12
         time.sleep(1)
         for x in range(nn):
-            os.system(play + " bigben.wav")
+            os.system(play + " bigben_oct.wav")
     time.sleep(1)
 
