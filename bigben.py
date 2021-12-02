@@ -2,6 +2,8 @@
 
 # Westminster quarters
 
+VOLUME = 2
+
 import time, os, sys
 
 if len(sys.argv) > 1:
@@ -9,7 +11,7 @@ if len(sys.argv) > 1:
 else:
     test = False
 
-play = "/usr/bin/play -q"
+play = f"/usr/bin/play -q -v {VOLUME}"
 
 last = -1
 
