@@ -2,7 +2,11 @@
 
 A Python script to play the Westminster Quarters (in C major) with SoX
 
-![notes](https://github.com/mdoege/big_ben/raw/master/ex6_westminster_1.gif "Westminster Quarters")
+### Prerequisites
 
-![photo](https://github.com/mdoege/big_ben/raw/master/Big_Ben_Westminster_(Unsplash)_1200px.jpg "Big Ben")
+You need [SoX](https://sox.sourceforge.net/) installed, for its /usr/bin/play command.
+
+![notes](ex6_westminster_1.gif "Westminster Quarters")
+
+![photo](Big_Ben_Westminster_(Unsplash)_1200px.jpg "Big Ben")
 
